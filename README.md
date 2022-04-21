@@ -18,7 +18,7 @@ Predecir con detalle el precio de las casas de Estados Unidos según la zona, lo
 7. Analizar los resultados mediante una métrica adecuada a mi problemática.
 8. Interpretar los resultados y comprender los outputs del modelo.
 
-## PowerPoint
+## Presentación del proyecto
 
 En esta presentación he resuelto las siguientes cuestiones:  
 1. ¿Qué problema o necesidad voy a resolver? ¿Puedo solucionarlo con Machine Learning?
