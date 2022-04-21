@@ -7,7 +7,7 @@
 
 Predecir con detalle el precio de las casas de Estados Unidos según la zona, los metros cuadrados, la cantidad de habitaciones que tiene etc.. 
 
-## Pasos
+## Pasos a seguir
 
 1. Conseguir los datos de un csv 
 2. Definir mi problema de Machine Learning: En este caso es de regressión
