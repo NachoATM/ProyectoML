@@ -5,7 +5,7 @@
 
 ## Finalidad
 
-Predecir con detalle el precio de las casas de Estados Unidos según la zona, los metros cuadrados, la cantidad de habitaciones que tiene etc.. 
+Predecir con detalle el precio de las casas de Estados Unidos según la zona, los metros cuadrados, la cantidad de habitaciones que tiene, etc.. 
 
 ## Pasos a seguir
 
